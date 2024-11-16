@@ -2,8 +2,8 @@
 
 Creating circular boxplot for circadian data r ggplot graphics
 
-github graph                                                                                                                     
-https://tinyurl.com/yrd47484                                                                                                 
+github graph         
+https://tinyurl.com/yrd47484 
 https://github.com/rogerjdeangelis/utl-creating-circular-boxplot-for-circadian-data-r-ggplot-graphics/blob/main/circlebox.png
 
 github
